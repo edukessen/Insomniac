@@ -1,0 +1,12 @@
+[
+        "What an amazing shot! :heart_eyes: What do you think of my recent shot?",
+        "What an amazing shot! :heart_eyes: I think you might also like mine. :wink:",
+        "Wonderful!! :heart_eyes: Would be awesome if you would checkout my photos as well!",
+        "Wonderful!! :heart_eyes: I would be honored if you would checkout my images and tell me what you think. :wink:",
+        "This is awesome!! :heart_eyes: Any feedback for my photos? :wink:",
+        "This is awesome!! :heart_eyes:  maybe you like my photos, too? :wink:",
+        "I really like the way you captured this. I bet you like my photos, too :wink:",
+        "I really like the way you captured this. If you have time, check out my photos, too. I bet you will like them. :wink:",
+        "Great capture!! :smiley: Any feedback for my recent shot? :wink:",
+        "Great capture!! :smiley: :thumbsup: What do you think of my recent photo?"
+    ]
