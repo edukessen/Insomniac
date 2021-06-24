@@ -56,7 +56,7 @@
   {
     "parameter-name": "next_config_file",
     "enabled": true,
-    "value": "remove_ghosts.json",
+    "value": "unfollows.json",
     "description" : "if you want to run multiple insomniac sessions one-by-one but with different parameters, for example - different action (interact and then unfollow), or same config but with different username, or any other variation of parameters you can think of, you can combine this parameter with the \"repeat\"-parameter, and after the sleep of the \"repeat\"-parameter, a new config file (referenced by this parameter) will be loaded. By default using the same config that been loaded in the first Insominac session. You must use \"repeat\"-parameter in order for that parameter take action!"
   },
   {
