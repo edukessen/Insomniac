@@ -225,8 +225,8 @@
   },
   {
     "parameter-name": "following_sort_order",
-    "enabled": false,
-    "value": "latest",
+    "enabled": true,
+    "value": "earliest",
     "description" : "sort the following-list when unfollowing users from the profile-following list. Can be one of values: default / latest / earliest. By default sorting by earliest"
   },
   {
