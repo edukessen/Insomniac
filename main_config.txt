@@ -1,1 +1,1 @@
-python start.py --config-file interact.json
+python start.py --config-file interact_scrape.json

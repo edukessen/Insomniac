@@ -763,7 +763,7 @@ def do_unfollow(device, my_username, username, storage, check_if_is_follower, us
     need_to_go_back_to_list = True
     unfollow_from_list_chance = randint(1, 100)
 
-    if follow_status_button_view is not None and not check_if_is_follower and unfollow_from_list_chance > 50:
+    if follow_status_button_view is not None and not check_if_is_follower and unfollow_from_list_chance > 0:
         # We can unfollow directly here instead of getting inside to profile
         need_to_go_back_to_list = False
         print("Unfollowing a profile directly from the following list.")
